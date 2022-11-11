@@ -1,4 +1,4 @@
-pyspark==2.3.2
+pyspark==3.2.2
 sagemaker-pyspark==1.2.4
 jupyter-client==5.2.4
 jupyter-console==6.0.0
